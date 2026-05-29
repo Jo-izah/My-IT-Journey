@@ -1,14 +1,37 @@
-## 🛠️ المشروع العملي 2.2: التشخيص والصيانة المتقدمة (Advanced Troubleshooting & Isolation)
-**الهدف الأصلي للمهمة:** تطبيق مهارات الفك والتركيب (Disassembly and Reassembly) بشكل عملي على مكونات لابتوب قديم، تطبيقاً لمادة `ACNT 101: IT Essentials`.
+## 🔧 Practical Project 2.2: Advanced Troubleshooting & Isolation
 
-**النتيجة غير المتوقعة:** تحول المشروع إلى مهمة **استكشاف أعطال (Troubleshooting)** وعزل متغيرات (Isolation) بعد أن تعطل الجهاز عقب عملية إعادة التركيب.
+**Original Goal:** Hands-on disassembly and reassembly practice
+on an old laptop — applying skills from ACNT 101: IT Essentials.
 
-### 1. الإثبات والتشخيص الذكي للمكونات
+**What Actually Happened:** The project turned into a full
+troubleshooting and isolation mission after the laptop failed
+following reassembly.
 
-* **اكتشاف الترقية:** تم تشخيص سبب سرعة الإقلاع غير المعتادة عن طريق أدوات النظام (مدير المهام)، حيث تم التأكد أن الهارد ديسك الأصلي قد تم ترقيته سابقاً إلى **SSD**.
-* **التطبيق العملي (Hands-on):** تم فتح الجهاز لتأكيد هذا التشخيص، والتدرب على **فك وتركيب (Reseat)** الـ RAM والـ SSD.
+---
 
-**المكونات ومراحل الفك:**
+## Why This Project Exists
+
+I grabbed an old laptop for a simple disassembly practice.
+
+What started as a hands-on hardware exercise turned into
+a full troubleshooting session after three unexpected
+failures appeared post-reassembly.
+
+This is the story of what went wrong — and how I fixed it.
+
+---
+
+## 1. Smart Component Diagnosis & Verification
+
+- **Discovering the Upgrade:** Unusual boot speed was diagnosed
+  using system tools (Task Manager), confirming the original
+  HDD had previously been upgraded to an **SSD**.
+
+- **Hands-on Practice:** Opened the laptop to verify this
+  finding and practice **reseating** the RAM and SSD.
+
+**Components & Disassembly Stages:**
+
 
 * **صورة الجهاز كامل**
 ![فك وتركيب](https://github.com/user-attachments/assets/1845fc58-d06d-4316-8499-6ac624425fcd)
